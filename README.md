@@ -1,18 +1,23 @@
-# 💫 About Me:
-Hi, I’m Ankit Singh 👋<br>🎓 B.Tech. Information Technology (2025) | PSIT, Kanpur<br>💻 Passionate about Python, AI, and Full-Stack Development<br>🧠 Skilled in Machine Learning, APIs, React, Next.js, TensorFlow, Flask, OpenCV, and LangChain<br>🔬 Built projects in image analysis, recommender systems, and medical diagnostics<br>🌱 Currently exploring Cloud Computing, RAG pipelines, and advanced AI integrations<br>🤝 Open to collaborating on AI/ML, Web Development, and Open-Source Projects<br>📫 Reach me at: ankitsingh20114@gmail.com<br>🌐 Portfolio: bhadauriaankit.vercel.app
+![Intro](./assets/hero.svg?v=1)
+![About](./assets/about-life.svg?v=1)
+![Stack](./assets/stack.svg?v=1)
+![ID](./assets/id-dashboard.svg?v=1)
 
+## Projects
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ankitsingh6342) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhadauria_ankit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitsingh-it) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ankit-Bhadauria-33) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankitsi82481878) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bhadauria_ankit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitsingh20114@gmail.com) 
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Smart Contact Manager** | RESTful contact-management system that handles 1,000+ contacts, with email-based account verification and password recovery. | Java, Spring Boot, MySQL, REST APIs |
+| **Pneumonia Detection System** | Convolutional neural network that classifies pneumonia from chest X-rays, using preprocessing and data augmentation to reduce overfitting. | Python, TensorFlow, CNN |
+| **Underwater Image Enhancement** | Image-processing pipeline combining Unsharp Masking and PCA Fusion; improved object-detection accuracy by 35% and image quality by 40%. | Python, OpenCV, Google Colab |
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhadauriaankit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhadauriaankit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhadauriaankit&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+More on my [GitHub repositories](https://github.com/bhadauriaankit?tab=repositories).
 
----
-[![](https://visitcount.itsvg.in/api?id=bhadauriaankit&icon=0&color=0)](https://visitcount.itsvg.in)
+![Connect](./assets/connect.svg?v=1)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Find me here:**
+[LinkedIn](https://www.linkedin.com/in/iam-ankit-singh/) ·
+[YouTube](https://www.youtube.com/@bhadauria_ankit) ·
+[Facebook](https://www.facebook.com/ankitsingh6342/) ·
+[Portfolio](https://bhadauriaankit.vercel.app/) ·
+[Email](mailto:ankitsingh20114@gmail.com)
