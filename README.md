@@ -1,7 +1,7 @@
-![Intro](./assets/hero.svg?v=1)
-![About](./assets/about-life.svg?v=1)
-![Stack](./assets/stack.svg?v=1)
-![ID](./assets/id-dashboard.svg?v=1)
+![Intro](./hero.svg?v=1)
+![About](./about-life.svg?v=1)
+![Stack](./stack.svg?v=1)
+![ID](./id-dashboard.svg?v=1)
 
 ## Projects
 
